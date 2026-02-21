@@ -1,0 +1,17 @@
+[
+  {
+    "category": "World War I",
+    "title": "WW1 Overview and Causes",
+    "content": "World War I (1914-1918), known as the Great War, was triggered by the assassination of Archduke Franz Ferdinand. Primary causes included Militarism, Alliances, Imperialism, and Nationalism (MAIN). It featured the first major use of tanks, airplanes, and chemical weapons. Key battles included Verdun and the Somme. The war ended with the Treaty of Versailles in 1919, which reshaped the global map and led to the collapse of the German, Austro-Hungarian, and Ottoman Empires."
+  },
+  {
+    "category": "World War II",
+    "title": "WW2 Key Events and Outcomes",
+    "content": "World War II (1939-1945) began with the German invasion of Poland. It was a global conflict between the Allies (USA, UK, USSR, China) and the Axis (Germany, Japan, Italy). Major turning points included the Battle of Stalingrad and the D-Day invasion. The war saw the horrors of the Holocaust and ended in 1945 following the atomic bombings of Hiroshima and Nagasaki. Post-war outcomes included the start of the nuclear age and the creation of the United Nations."
+  },
+  {
+    "category": "Cold War",
+    "title": "Cold War Dynamics and Ideologies",
+    "content": "The Cold War (1947-1991) was an ideological struggle between Western capitalism (led by the USA) and Eastern communism (led by the USSR). While no direct large-scale fighting occurred between the superpowers, 'proxy wars' took place in Korea and Vietnam. Key concepts included Containment, Mutually Assured Destruction (MAD), and the Space Race. The era ended with the fall of the Berlin Wall in 1989 and the official dissolution of the Soviet Union in 1991."
+  }
+]
